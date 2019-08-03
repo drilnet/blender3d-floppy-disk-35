@@ -3,8 +3,8 @@
 
 <hr>
 
-## Blender 3D. Disabled Person (анимированная иконка)
+## Blender 3D. Флоппи диск 3.5" 
 
 Лицензия: **Free**.
 
-![](https://github.com/drilnet/blender3d-disabled-person/blob/master/UA.png)
+![](https://github.com/drilnet/blender3d-floppy-disk-35/blob/master/UA.png)
